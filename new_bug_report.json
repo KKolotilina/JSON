@@ -1,1 +1,21 @@
+{	
+	"ID": 01,
+	"Title": "Не открывается карточка товара Гирлянда Uniel 50 led с главной страницы",
+	"Reporter": "Kolotilina_Karina",
+	"Assigned": "Orlov_Alex",
+	"Type": "bug",
+	"Status": "new",
+	"Severity": "S2",
+	"Priority": "P1",
+	"Browser": "Google Chromу 96.0.4664.45",
+	"Description": "Невозможно открыть и перейти в карточку товара",
+	"Steps to reproduce": [
+					{ 
+					  "1_step": "Открыть главную страницу www.buy-la-la.com",
+					  "2_step": "Кликнуть на товар Гирлянда Uniel 50 led"
+					  }
+					 ]
+    "Actual_result": "Открылась карточка товара гирлянда Гирлянда Uniel 50 led",
+	"Expected_result": "Карточка товара не открылась, произошло обновление главной страницы"
 
+}
